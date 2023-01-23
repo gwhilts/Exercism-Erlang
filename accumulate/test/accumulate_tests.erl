@@ -5,7 +5,7 @@
 
 -module(accumulate_tests).
 
--include_lib("erl_exercism/include/exercism.hrl").
+% -include_lib("erl_exercism/include/exercism.hrl").
 -include_lib("eunit/include/eunit.hrl").
 
 
